@@ -4,10 +4,14 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Dalmiro Martins Capitao
+- Vivo en Isidro Csanova, La Matanza
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Esta es la primera vez que uso GitHub
+- Estoy estudiando la Tecnicatura en Programacion de Videojuegos
+- Me gusta hacer pixelart para los juegos que hago y tambien me gusta escribir
+
+
+  
